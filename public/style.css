@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&family=Source+Sans+Pro:wght@400;700;900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'PT Serif', serif;
+}
+
+body {
+    height: 100vh;
+}
+
+.container {
+    max-width: 900px;
+    padding: 20px;
+    margin: auto;
+}
+
+main {
+    margin-top: 30px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.buttons {
+    height: 100%;
+}
+
+a {
+    color: rgb(40, 80, 255);
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: 1px solid rgb(40, 80, 255);
+}
+
+.wrap {
+    margin-top: 20px;
+}
